@@ -1,0 +1,30 @@
+#background-ele{
+    width: 110%;
+    height: 500px;
+    background-image: url(https://i0.wp.com/www.adventuresinpoortaste.com/wp-content/uploads/2018/09/bowsette-featured-1-min.png?fit=1130%2C692) ;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+.image{
+    width: 20%;
+    height: 170px;
+    background-image: url(http://hatintime.com/public/images/avatars/gallery-images/snatcher2.png);
+    margin-left: 400px;
+}
+
+#font{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center
+}
+
+.face{
+    margin-left: 450px;
+}
+
+#text{
+    font-family: 'Righteous', cursive;
+    margin-left: 400px;
+}
